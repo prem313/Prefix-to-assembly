@@ -1,6 +1,6 @@
 # Prefix to Assembly Code Generator
 
-This project is a Prefix to Assembly Code Generator, implemented in C++. It takes a prefix expression as input, processes it, generates assembly code based on the expression, and calculates the result of the expression. The generated assembly code is saved to a file named `assemblyCode.txt`.
+This project is a Prefix to Assembly Code Generator, implemented in C++. It takes a prefix expression as input, processes it, generates assembly code based on the expression, and calculates the result of the expression.
 
 ## Features
 
